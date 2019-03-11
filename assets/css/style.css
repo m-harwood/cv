@@ -4,7 +4,8 @@
 /*---------------------------------------------Colours  */
 
 .bg-color-name-title {
-    background-color: #676767;
+    background-color: #99ccff
+    ;
 }
 
 .bg-color-three-reasons {
@@ -39,6 +40,9 @@
     background-color: #525252;
 }
 
+.footer-color {
+    background-color: #99ccff;
+}
 
 /*---------------------------------------------Special paddings/magins/text  */
 
@@ -92,7 +96,7 @@ header {
 }
 
 .logo {
-    background: url("../images/rosie.jpg");
+    background: url("/assets/images/me.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
