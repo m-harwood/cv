@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
 
+#map {min-height: 360px;}
+
 /*---------------------------------------------Colours  */
 
 .bg-color-name-title {
@@ -34,6 +36,14 @@
 
 .ui-menu-color-contact {
     background-color: #3498db;
+}
+
+.ui-menu-color-github {
+    background-color: #1c4a6c;
+}
+
+.ui-menu-color-interests {
+    background-color: #e74c3c;
 }
 
 .ui-menu-color-download {
